@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ofir0803.github.io/csb-124n7n/static/css/main.2df380fc.chunk.css",
+    "main.js": "https://ofir0803.github.io/csb-124n7n/static/js/main.9dd14676.chunk.js",
+    "main.js.map": "https://ofir0803.github.io/csb-124n7n/static/js/main.9dd14676.chunk.js.map",
+    "runtime-main.js": "https://ofir0803.github.io/csb-124n7n/static/js/runtime-main.dcb44edf.js",
+    "runtime-main.js.map": "https://ofir0803.github.io/csb-124n7n/static/js/runtime-main.dcb44edf.js.map",
+    "static/js/2.18ee9ae2.chunk.js": "https://ofir0803.github.io/csb-124n7n/static/js/2.18ee9ae2.chunk.js",
+    "static/js/2.18ee9ae2.chunk.js.map": "https://ofir0803.github.io/csb-124n7n/static/js/2.18ee9ae2.chunk.js.map",
+    "index.html": "https://ofir0803.github.io/csb-124n7n/index.html",
+    "static/css/main.2df380fc.chunk.css.map": "https://ofir0803.github.io/csb-124n7n/static/css/main.2df380fc.chunk.css.map",
+    "static/js/2.18ee9ae2.chunk.js.LICENSE.txt": "https://ofir0803.github.io/csb-124n7n/static/js/2.18ee9ae2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcb44edf.js",
+    "static/js/2.18ee9ae2.chunk.js",
+    "static/css/main.2df380fc.chunk.css",
+    "static/js/main.9dd14676.chunk.js"
+  ]
+}
